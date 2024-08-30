@@ -31,7 +31,7 @@ My name is Jean, a boy in love with technology and in constant learning. Junior 
   <a href="https://instagram.com/jeanmendanha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jeanmendanhaa" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/jeanmendanhaa/"></a>
   <a href = "mailto:soocialtech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/jeanmendanhaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/jeanmendanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
