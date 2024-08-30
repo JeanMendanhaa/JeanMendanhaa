@@ -22,7 +22,9 @@
 </div>
 
 ## 🤟🏽 Who and I?
-My name is Jean, a boy in love with technology and in constant learning. Junior JavaScript developer and evolving in NodeJS and ReactNative.
+Hi, I am Jean Mendanha, a student of Systems Analysis and Development, a curious individual, a natural-born salesperson, multidisciplinary, concerned with my impact on the world, and always seeking to evolve.
+
+My professional journey has always been focused on sales/management but has always been connected to technology. In 2019, I embraced technology linked to the business area, reaching the position of Technological Consultant, always using it to develop my functions as a manager. I seek challenging opportunities where I can positively impact and boost results, whether in the commercial field, managing a team to achieve results, or even creating and coding complex solutions in my field of study (IT).
 
 
 ## 🌐 Networks.
