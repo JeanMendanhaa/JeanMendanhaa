@@ -1,46 +1,88 @@
 <h1 align="center">
-    Jean Carlos Mendanha Jr
+   🤟🏽 Hi, I'm Jean Mendanha Jr
 </h1>
 
-<p align="center">
-  <a href="#-who-and-i">Who and I?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-networks">Networks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
 
-## :star: Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVJeanJr&layout=compact&theme=react)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=JeanMendanhaa&style=flat-square&color=green)
 
-<div style="display: inline_block"><br>
+## 🚀 Sobre Mim
+
+Hi! I'm Jean Mendanha Jr, a FullStack JS developer. I'm currently working on a cross-platform project using technologies (React, MongoDB and TypeScript).
+
+ * 👨🏽‍💻 FullStack Developer JS;
+ * 🧼​ I like clean code, good coffee, and fast deploys;
+ * 🌐 Passionate about web development;
+ * 📲 Taking a project off paper;
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanMendanhaa&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
+
+## 🛠️ Linguagens e Ferramentas
+
+<div align="center">
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jean-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="Jean-NextJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg">
 </div>
 
-## 🤟🏽 Who and I?
-Hi, I am Jean Mendanha, a student of Systems Analysis and Development, a curious individual, a natural-born salesperson, multidisciplinary, concerned with my impact on the world, and always seeking to evolve.
+<!-- 
+## 💻 Últimos Projetos
 
-My professional journey has always been focused on sales/management but has always been connected to technology. In 2019, I embraced technology linked to the business area, reaching the position of Technological Consultant, always using it to develop my functions as a manager. I seek challenging opportunities where I can positively impact and boost results, whether in the commercial field, managing a team to achieve results, or even creating and coding complex solutions in my field of study (IT).
+### [Nome do Projeto 1](link-do-projeto)
+* Descrição: Uma breve descrição do que é o projeto e qual problema ele resolve.
+* Tecnologias: `Tech1`, `Tech2`, `Tech3`
+* [Demo](link-para-demo) | [Repositório](link-para-repo)
 
+### [Nome do Projeto 2](link-do-projeto)
+* Descrição: Uma breve descrição do que é o projeto e qual problema ele resolve.
+* Tecnologias: `Tech1`, `Tech2`, `Tech3`
+* [Demo](link-para-demo) | [Repositório](link-para-repo)
 
-## 🌐 Networks.
+### [Nome do Projeto 3](link-do-projeto)
+* Descrição: Uma breve descrição do que é o projeto e qual problema ele resolve.
+* Tecnologias: `Tech1`, `Tech2`, `Tech3`
+* [Demo](link-para-demo) | [Repositório](link-para-repo)
 
-<div> 
+## 🎓 Formação & Certificações
+
+### Formação Acadêmica
+- **[Curso/Graduação]** - [Instituição] (Ano - Ano)
+- **[Curso/Graduação]** - [Instituição] (Ano - Ano)
+
+### Certificações
+- **[Nome da Certificação]** - [Instituição Emissora] (Ano)
+- **[Nome da Certificação]** - [Instituição Emissora] (Ano)
+- **[Nome da Certificação]** - [Instituição Emissora] (Ano)
+
+## ✍️ Artigos
+
+- [Título do Artigo 1](link-para-o-artigo) - Data de Publicação
+- [Título do Artigo 2](link-para-o-artigo) - Data de Publicação
+- [Título do Artigo 3](link-para-o-artigo) - Data de Publicação
+
+ -->
+
+## 📫 Contato & Redes Sociais
+
+<div align="center">
+  <!-- <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  <a href="https://x.com/jeanmendanhaa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+   <!--<a href="https://dev.to/seu-usuario">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a> -->
+  <a href="mailto:contato@jeanmendanha.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://instagram.com/jeanmendanha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://x.com/jeanmendanhaa" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/jeanmendanhaa/"></a>
-  <a href = "mailto:jmendanha91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/jeanmendanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-
-## 📃 License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 ---
 
-Made with ♥ by JeanMendanhaJr :wave: [Get in touch!](https://www.linkedin.com/in/)
+Made with ♥ by JeanMendanhaJr 🤟🏽 [Get in touch!](mailto:contato@jeanmendanha.com)
