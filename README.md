@@ -5,7 +5,7 @@
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=JeanMendanhaa&style=flat-square&color=green)
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 Hi! I'm Jean Mendanha Jr, a FullStack JS developer. I'm currently working on a cross-platform project using technologies (React, MongoDB and TypeScript).
 
@@ -18,7 +18,7 @@ Hi! I'm Jean Mendanha Jr, a FullStack JS developer. I'm currently working on a c
   <img src="https://github-readme-stats.vercel.app/api?username=JeanMendanhaa&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </div>
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages ​​and Tools
 
 <div align="center">
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -65,7 +65,7 @@ Hi! I'm Jean Mendanha Jr, a FullStack JS developer. I'm currently working on a c
 
  -->
 
-## 📫 Contato & Redes Sociais
+## 📫 Contact and Networks
 
 <div align="center">
   <!-- <a href="https://linkedin.com/in/seu-perfil">
